@@ -1,18 +1,27 @@
 @charset "UTF-8";
 /* CSS Document */
 
-
+.col{
+background-size: cover;
+	background-image: url("img/1.png");
+	height: 100vh;
+}
 
 .uno{
 background-size: cover;
-height: 100vh;
-	background-image: url("img/1.png");
-	margin-top: 10px;
-	
+	background-image: url("img/3.png");
+	height: 100vh;
 }
 
+.des{
+	background-size: cover;
+	background-image: url("img/2.png");
+	height: 100vh;
+}
 .dos{
-	width:100%;
+		background-size: cover;
+	background-image: url("img/4.png");
+	height: 100vh;
 }
 
 h1{
